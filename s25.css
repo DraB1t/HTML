@@ -35,3 +35,31 @@ h6 {
     text-decoration-line: underline;
     font-size: 40px;
 }
+.box_1{
+    margin: 16%;
+    padding: 0%;
+    background: white(255, 255, 255);
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+h2{
+    text-align: center;
+}
